@@ -1,0 +1,150 @@
+Worker,1,John Smith,50.75,3,Concrete
+Worker,2,Emily Davis,45,-8,Steel
+Worker,3,Michael Johnson,35.5,3,Piping
+Worker,4,Jessica Brown,42.75,6,Electrical
+Worker,5,David Wilson,40.25,3,Wood
+Worker,6,Sarah Martinez,30,2,Finishing
+Worker,7,James Anderson,38,4,Masonry
+Worker,8,Laura Harris,47.5,3,Concrete
+Worker,9,Robert Clark,36,5,Steel
+Worker,10,Linda Robinson,34.5,4,Piping
+Worker,11,William Lewis,39.75,5,Electrical
+Worker,12,Barbara Walker,32.25,2,Wood
+Worker,13,Richard Hall,31,3,Finishing
+Worker,14,Patricia Allen,37.5,4,Masonry
+Worker,15,Thomas Young,44,2,Concrete
+Worker,16,Jennifer King,33.75,3,Steel
+Worker,17,Charles Wright,41.5,4,Piping
+Worker,18,Mary Scott,43.25,5,Electrical
+Worker,19,Joseph Green,39,3,Wood
+Worker,20,Karen Baker,35.75,4,Finishing
+Worker,21,Christopher Adams,37,2,Masonry
+Worker,22,Nancy Nelson,46,3,Concrete
+Worker,23,Daniel Carter,36.75,4,Steel
+Worker,24,Lisa Mitchell,34.25,5,Piping
+Worker,25,Paul Perez,42,2,Electrical
+Worker,26,Brian Roberts,30.5,3,Wood
+Worker,27,Susan Turner,31.75,4,Finishing
+Worker,28,Kevin Phillips,38.5,5,Masonry
+Worker,29,Margaret Campbell,44.5,3,Concrete
+Worker,30,Mark Parker,32,4,Steel
+Worker,31,Deborah Evans,35,5,Piping
+Worker,32,Steven Edwards,41,2,Electrical
+Worker,33,Sandra Collins,33.5,3,Wood
+Worker,34,George Stewart,34.75,4,Finishing
+Worker,35,Michelle Sanchez,37.25,5,Masonry
+Worker,36,Donald Morris,40.5,3,Concrete
+Worker,37,Carol Rogers,32.75,4,Steel
+Worker,38,Kenneth Reed,31.25,5,Piping
+Worker,39,Dorothy Cook,39.5,2,Electrical
+Worker,40,Jason Morgan,36.25,3,Wood
+Worker,41,Helen Bell,30.75,4,Finishing
+Worker,42,Ronald Murphy,33.25,5,Masonry
+Worker,43,Amy Bailey,38.25,3,Concrete
+Worker,44,Jeffrey Rivera,42.5,4,Steel
+Worker,45,Rebecca Cooper,31.5,5,Piping
+Worker,46,Eric Richardson,37.75,2,Electrical
+Worker,47,Betty Cox,34,3,Wood
+Worker,48,Jacob Howard,35.25,4,Finishing
+Worker,49,Shirley Ward,40,5,Masonry
+Worker,50,Larry Ramirez,44.75,3,Concrete
+Tool,1,Hammer,12.49,20,0.75
+Tool,2,Screwdriver,5.99,3,0.5
+Tool,3,Wrench,8.99,25,0.6
+Tool,4,Pliers,7.49,18,0.4
+Tool,5,Drill,89.99,10,1.5
+Tool,6,Level,14.99,12,0.3
+Tool,7,Chisel,9.99,22,0.7
+Tool,8,Measuring Tape,6.49,30,0.2
+Tool,9,Saw,15.99,10,1.2
+Tool,10,Sander,74.99,5,1.8
+Tool,11,Utility Knife,4.99,40,0.2
+Tool,12,Paintbrush,3.49,50,0.1
+Tool,13,Circular Saw,120,8,2
+Tool,14,Impact Driver,99.99,7,1.6
+Tool,15,Allen Wrench Set,19.99,20,0.4
+Tool,16,Pipe Cutter,25.99,15,0.9
+Tool,17,Stud Finder,18.99,12,0.3
+Tool,18,Caulking Gun,10.49,18,0.5
+Tool,19,Wire Stripper,11.99,25,0.3
+Tool,20,Hand Saw,22.99,10,1.1
+Tool,21,Angle Grinder,59.99,7,1.7
+Tool,22,Flashlight,7.99,30,0.4
+Tool,23,Ladder,129.99,5,2.5
+Tool,24,Tool Belt,24.99,20,0.8
+Tool,25,Workbench,89.99,8,3
+Tool,26,Socket Set,39.99,15,1
+Tool,27,Torque Wrench,49.99,12,1.3
+Tool,28,Heat Gun,34.99,10,1.4
+Tool,29,Paint Roller,6.99,25,0.2
+Tool,30,Plumb Bob,9.99,20,0.3
+Tool,31,Wire Cutter,12.49,22,0.6
+Tool,32,Adjustable Wrench,14.99,18,0.7
+Tool,33,Hacksaw,13.99,15,0.9
+Tool,34,Multimeter,29.99,10,1.1
+Tool,35,Tile Cutter,79.99,6,1.8
+Tool,36,Extension Cord,19.99,20,0.5
+Tool,37,Pipe Wrench,24.99,12,1.2
+Tool,38,Chalk Line,5.99,30,0.3
+Tool,39,Putty Knife,4.49,40,0.2
+Tool,40,Work Light,39.99,8,1
+Tool,41,Air Compressor,199.99,4,2.2
+Tool,42,Paint Sprayer,89.99,6,1.6
+Tool,43,Angle Finder,12.99,20,0.4
+Tool,44,Combination Square,10.99,25,0.3
+Tool,45,Soldering Iron,19.99,15,0.7
+Tool,46,Jigsaw,69.99,8,1.5
+Tool,47,Table Saw,249.99,3,3.5
+Tool,48,Belt Sander,79.99,5,2
+Tool,49,Power Drill,49.99,10,1.4
+Tool,50,Claw Hammer,9.99,25,0.8
+Machine,1,Excavator,75000,3,1
+Machine,2,Bulldozer,85000,2,1
+Machine,3,Cement Mixer,15000,5,0
+Machine,4,Crane,120000,1,1
+Machine,5,Forklift,30000,4,1
+Machine,6,Backhoe,65000,3,1
+Machine,7,Concrete Pump,90000,2,1
+Machine,8,Trencher,40000,4,1
+Machine,9,Asphalt Paver,130000,1,1
+Machine,10,Loader,55000,3,1
+Machine,11,Scissor Lift,18000,5,0
+Machine,12,Skid Steer,32000,4,1
+Machine,13,Grader,95000,2,1
+Machine,14,Tower Crane,200000,1,1
+Machine,15,Mini Excavator,40000,3,1
+Machine,16,Roller,50000,2,1
+Machine,17,Cherry Picker,45000,4,1
+Machine,18,Compactor,12000,5,0
+Machine,19,Hydraulic Hammer,25000,4,0
+Machine,20,Pipe Layer,80000,1,1
+Machine,21,Telehandler,60000,3,1
+Machine,22,Drill Rig,110000,2,1
+Machine,23,Concrete Saw,15000,5,0
+Machine,24,Portable Generator,8000,6,0
+Machine,25,Power Trowel,10000,5,0
+Machine,26,Jackhammer,6000,8,0
+Machine,27,Water Pump,7000,7,0
+Machine,28,Air Compressor,15000,4,0
+Machine,29,Vacuum Excavator,95000,2,1
+Machine,30,Wheel Loader,75000,3,1
+Machine,31,Concrete Finisher,20000,5,0
+Machine,32,Stone Crusher,120000,1,1
+Machine,33,Track Loader,85000,2,1
+Machine,34,Electric Saw,5000,10,0
+Machine,35,Hoist,30000,3,1
+Machine,36,Dump Truck,95000,2,1
+Machine,37,Concrete Batching Plant,200000,1,1
+Machine,38,Scaffolding,2500,20,0
+Machine,39,Concrete Vibrator,8000,5,0
+Machine,40,Welding Machine,12000,6,0
+Machine,41,Pallet Jack,3000,8,0
+Machine,42,Brick Cutter,15000,4,0
+Machine,43,Asphalt Roller,70000,2,1
+Machine,44,Tile Cutter,5000,10,0
+Machine,45,Rebar Cutter,9000,5,0
+Machine,46,Tractor,55000,3,1
+Machine,47,Soil Compactor,75000,2,1
+Machine,48,Floor Grinder,10000,5,0
+Machine,49,Pile Driver,130000,1,1
+Machine,50,Boom Lift,40000,4,1
